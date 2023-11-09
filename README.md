@@ -1,6 +1,6 @@
 # IDAM-Actividad-11
 IDAM Actividad 11: 
-## Uikit Survey:
+## Parte 1, Uikit Survey:
 
 ### Views
 Label
@@ -68,3 +68,7 @@ Switch
 <br>
 <img width="300" alt="Switches" src="https://github.com/MarceloA00/IDAM-Actividad-11/assets/61481738/9278f832-0bcd-4079-99c6-eb8724fd2425">
 <br>
+
+## Parte 2, Lab - Tutorial Screen
+
+## Parte 3, Lab - Basic Interactions

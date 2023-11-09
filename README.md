@@ -70,5 +70,16 @@ Switch
 <br>
 
 ## Parte 2, Lab - Tutorial Screen
+<br>
+<img width="372" alt="IDAM Lab - Tutorial Screen" src="https://github.com/MarceloA00/IDAM-Actividad-11/assets/61481738/c8f24d50-f685-4802-9fe6-1cf35668d91c">
+<br>
 
 ## Parte 3, Lab - Basic Interactions
+<br>
+<img width="372" alt="Lab - Basic Interactions 1" src="https://github.com/MarceloA00/IDAM-Actividad-11/assets/61481738/e96a7803-08ff-495f-914b-e187f3112367">
+<br>
+<img width="372" alt="Lab - Basic Interactions 2" src="https://github.com/MarceloA00/IDAM-Actividad-11/assets/61481738/98b1dce0-19aa-4587-b504-410607b63b6e">
+<br>
+<img width="372" alt="Lab - Basic Interactions 3" src="https://github.com/MarceloA00/IDAM-Actividad-11/assets/61481738/6d33b4d8-6b9d-4716-8458-d4cf04b06503">
+<br>
+<img width="897" alt="Lab - Basic Interactions Code" src="https://github.com/MarceloA00/IDAM-Actividad-11/assets/61481738/b25c8bb4-5953-49af-9410-b4e3531daa93">
